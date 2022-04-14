@@ -1,6 +1,6 @@
 # **Turbo Infinite Scroll Quotes App**
 ## Description 
-A simple application created to aid learning how to utilize an infinite scroll in Rails.
+A simple application created to aid learning how to utilize an infinite scroll in Rails. App displays quotes and photos from a Faker data
 ## Table of contents
 - [Description](#Description)
 - [Installation](#Installation)
